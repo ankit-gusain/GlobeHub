@@ -1,2 +1,9 @@
-# GlobeHub
-GlobeHub is an interactive web app built with React 19 that offers detailed information about countries worldwide. It provides insights into geography, culture, economy, and more, making it easy and engaging for users to explore the world.
+# GlobeHub 🌍
+
+An interactive web app built with **React 19** that provides detailed information about countries around the world, offering insights into geography, culture, economy, and more.
+
+## Features ✨
+- Explore countries' data: geography, culture, economy, population, and more
+- Interactive user interface built with React 19
+- Fast and responsive design
+- Search and filter countries easily
