@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "title": "Find us",
+        "details": "Dwarka, Delhi"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call us",
+        "details": "9315295224"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail us",
+        "details": "ankitgusain1n2k.com"
+    }
+]
