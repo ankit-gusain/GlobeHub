@@ -10,6 +10,7 @@ An interactive web app built with **React 19** that provides detailed informatio
 - interactive UI
   
 ## Click to visit 😊
+Try viewing at 75% of screen resolution for an interactive viewing.
 
 [Click Here .......](https://globehub.netlify.app/)
 ## 📸 Screenshots
